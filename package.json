@@ -1,0 +1,24 @@
+{
+  "name": "dev-timer-server",
+  "version": "1.0.0",
+  "description": "Server Side app for the dev timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherWLopez/Dev-Timer-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherWLopez/Dev-Timer-Server/issues"
+  },
+  "homepage": "https://github.com/ChristopherWLopez/Dev-Timer-Server#readme",
+  "dependencies": {
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}
